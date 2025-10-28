@@ -16,7 +16,7 @@ Cada disciplina é um **vértice**, e cada relação de pré-requisito é uma **
 
 ## 📂 Arquivo principal
 
-**`rede_disciplinas.py`**
+**`grafo_disciplinas.py`**
 
 Contém toda a implementação da classe `CurriculumGraph` e exemplos de uso.
 
